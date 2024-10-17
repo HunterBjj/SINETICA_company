@@ -1,0 +1,1 @@
+# SINETICA_company
