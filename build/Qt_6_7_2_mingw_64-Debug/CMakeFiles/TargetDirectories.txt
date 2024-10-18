@@ -1,0 +1,9 @@
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/QT_TEST.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/edit_cache.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/list_install_components.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/install.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/install/local.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/install/strip.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/QT_TEST_autogen_timestamp_deps.dir
+C:/Qt/QT_TEST/build/Qt_6_7_2_mingw_64-Debug/CMakeFiles/QT_TEST_autogen.dir
